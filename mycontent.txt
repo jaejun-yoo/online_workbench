@@ -1,4 +1,6 @@
+first line from source -- Change by Bob
 Unchanged first line from source = Not any more :)
+- Lisa
 Second line
 Third line
 Fourth line by Lisa
