@@ -1,3 +1,3 @@
-Unchanged first line from source
+first line from source -- Change by Bob
 Second line
 Third line
